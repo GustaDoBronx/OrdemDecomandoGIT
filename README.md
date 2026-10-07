@@ -1,7 +1,7 @@
 # OrdemDecomandoGIT
 #Ordem de comando 
 🚀 1. Primeiro envio de um projeto GITBASH
-
+Se aparecer master no branch do git bash,coloque assim: git branch -M main
 Execute os comandos um por vez, na pasta do seu projeto.
 
 Veja primeiro qual pasta gostaria de utilizar com "ls" no git
